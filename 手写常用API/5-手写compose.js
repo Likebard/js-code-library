@@ -1,0 +1,1 @@
+// 灵魂之处在于使用Array.prototype.reduce实现了函数组合。 题外话：reduce还实现过promise的依次调用
